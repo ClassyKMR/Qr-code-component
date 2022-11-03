@@ -1,0 +1,37 @@
+html {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100%;
+}
+
+.block {
+    width: 300px;
+    padding: 10px 10px 20px 10px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.block__qrcode {
+    height: 300px;
+    border-radius: 15px;
+}
+
+.block__text {
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    padding: 0px 10px;
+    text-align: center;
+    
+}
+
+.block__text--heading {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size: 22px;
+}
+
+
