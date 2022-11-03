@@ -10,11 +10,11 @@ html {
     padding: 15px;
     background-color: white;
     border-radius: 20px;
-    width: 280px;
+    width: 30 0px;
 }
 
 .block__qrcode {
-    height: 280px;
+    height: 300px;
     border-radius: 20px;
 }
 
@@ -24,8 +24,7 @@ html {
     font-weight: 400;
     font-size: 15px;
     padding: 0px 10px;
-    text-align: center;
-    
+    text-align: center;  
 }
 
 .block__text--heading {
